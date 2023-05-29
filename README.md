@@ -1,2 +1,4 @@
 # PPE Project: Dataset
-Here is the link for the dataset: https://kfupmedusa-my.sharepoint.com/:f:/g/personal/hussein_binsamma_kfupm_edu_sa/Eu9nWpaNSG5Lqb9BXf9n0rYBjLX_533VFOVetKh5mvfy_A?e=6DMc5m
+The dataset source is available here: https://www.kaggle.com/datasets/andrewmvd/hard-hat-detection?select=annotations
+<br>
+The annotations for the 12 classes are uploaded on this repo in 2 styles: Pascal voc, and yolo.
