@@ -1,0 +1,38 @@
+<annotation>
+	<folder>HardHat_images</folder>
+	<filename>hard_hat_workers1689.png</filename>
+	<path>C:\Users\Sure program\Desktop\Ghazi\HardHat_images\hard_hat_workers1689.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>415</width>
+		<height>415</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NG</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>224</ymin>
+			<xmax>324</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>H</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>282</xmin>
+			<ymin>168</ymin>
+			<xmax>365</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>
